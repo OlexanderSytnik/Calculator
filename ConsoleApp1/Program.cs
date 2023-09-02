@@ -37,7 +37,7 @@ namespace calculator
                     }
                     else 
                     {
-                        Console.WriteLine("Иди нахуй, долбаёб"); 
+                        Console.WriteLine("На нуль делить нельзя!"); 
                     }
                     break;
 
